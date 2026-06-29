@@ -1,0 +1,5 @@
+{
+  "name": "conversion_predictor",
+  "version": "0.1.0",
+  "description": "SaaS trial-to-paid conversion prediction: feature engineering plus logistic regression, 85% on leaderboard"
+}

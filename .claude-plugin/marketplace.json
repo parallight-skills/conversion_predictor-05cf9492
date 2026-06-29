@@ -1,0 +1,19 @@
+{
+  "name": "conversion_predictor",
+  "owner": {
+    "name": "Parallight Skills",
+    "url": "https://github.com/parallight-skills"
+  },
+  "metadata": {
+    "description": "SaaS trial-to-paid conversion prediction: feature engineering plus logistic regression, 85% on leaderboard"
+  },
+  "plugins": [
+    {
+      "name": "conversion_predictor",
+      "description": "SaaS trial-to-paid conversion prediction: feature engineering plus logistic regression, 85% on leaderboard",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "ml"
+    }
+  ]
+}
